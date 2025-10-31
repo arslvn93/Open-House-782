@@ -11,7 +11,7 @@ const config = {
     "title": "REALTOR®",
     "phone": "6137062555",
     "email": "trevor@driscollpeca.com",
-    "photoUrl": "https://app.salesgenius.co/api/organization-logos/17549fb2-399e-4750-b562-268c29da7697?v=e3dd16fa3a8758e2fbc3c0e6b44edcfe9404e9faf10293bd9d5ccc07277191bd",
+    "photoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-4_1.png",
     "bio": "With years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers. With deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
